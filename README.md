@@ -10,4 +10,4 @@
 
 ## Props
 
-- See App.js for the props. THE ID PROP IS MANDATORY.
+- See App.js for the props. THE ID PROP IS MANDATORY AND IT MUST BE UNIQUE.
